@@ -16,6 +16,6 @@ pip install wbpy
 Data gathering and orginization can be viewed in Data.ipynb with Jupyter notebook.
 The final presentation and analysis can be viewed in Presentation_Keynote or Presentation_Powerpoint.
 
-## Contributers
+## Contributors
 
 Daniel Furman, Marcus Pames, Sueli Yahara
